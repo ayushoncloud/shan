@@ -1,0 +1,47 @@
+#tanu1{
+    height:100px;
+    border-radius:10px;
+    position:fixed;
+}
+h1{
+    margin-left:70px;
+    margin-right:70px;
+    text-align:center;
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 1600;
+    font-style: normal;
+    color:white;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 1600;
+    font-style: normal;
+    font-size:30px;
+}
+h3{
+    text-align: center;
+}
+.mac{
+    height:100px;
+    border-radius:10px;
+}
+.converse{
+    height:100px;
+    border-radius:5px;
+}
+.porsche{
+    height: 300px;
+}
+footer{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 1600;
+    font-style: normal;
+    text-align:center;
+    font-size:10px;
+    background-color: cyan;
+    color:black;
+    border-radius:10px;
+}
